@@ -13,9 +13,12 @@ https://github.com/chyl9109/QBUS2820ProjctOne.git
 
 4) Type onto your terminal:
 git clone https://github.com/chyl9109/QBUS2820ProjctOne.git
+
 This clones everything in the repository onto your laptop.
 
 5) Type onto your terminal:
+
 git init
+
 You terminal should change and now have something saying git:(master)x
 
