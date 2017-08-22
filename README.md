@@ -27,4 +27,12 @@ This means that you have initalised a git repository on in this directory.
 Commiting things is like saving things.
 
 
+Really good tutorials to explain everything:
+
+https://www.youtube.com/watch?v=JPKOESR1k04
+
+https://www.youtube.com/watch?v=tRTckrrCME4
+
+
+
 
