@@ -22,3 +22,9 @@ git init
 
 You terminal should change and now have something saying git:(master)x
 
+This means that you have initalised a git repository on in this directory.
+
+Commiting things is like saving things.
+
+
+
